@@ -3,7 +3,7 @@ import random
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
-BOT_TOKEN = "8174794151:AAHbezx5Gc4KwxS3Y2hUkjnyJpnoib02QEY"
+BOT_TOKEN = "YOUR TELEGRAM API"
 MOVIES_DF = pd.read_csv("movie.csv")  # Load dataset once
 
 # 🏁 /start
