@@ -1,3 +1,6 @@
 python-telegram-bot==20.3
 pandas
+<<<<<<< HEAD
 python-dotenv
+=======
+>>>>>>> 20e9d985c6dfce8e3ce89b9109d6f5560de00df1
